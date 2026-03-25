@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=MD+SABBIR+HOSSAIN;CSE+STUDENT+%7C+SOLDIER;CREATOR+OF+FAMTIES" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 CSE Student | 🪖 Soldier | 🧬 Creator of FamTies</h3>
+<h3 align="center">🚀 CSE Student | ⚔️ Soldier | 🧬 Creator of FamTies</h3>
 
 <p align="center">
   <strong>Bridging the discipline of the Bangladesh Air Force with the logic of Computer Science to build impactful, scalable digital experiences.</strong>
@@ -68,20 +68,46 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossainmdbsabbir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sabbir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmdbsabbir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hossainmdbsabbir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sabbir's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmdbsabbir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🧬 Current Focus
+---
 
-- ⚡ **Optimization:** Building **FamTies** with clean, scalable architecture.
-- 🧠 **Learning:** Deep diving into DSA and System Design.
-- 🎯 **Identity:** Strengthening the intersection of Military discipline and Tech innovation.
+### 🧬 Current Focus & Mission
 
-> **"Discipline builds strength. Consistency builds progress. Purpose builds legacy."**
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Technical Growth</h4>
+      <ul>
+        <li><b>Optimization:</b> Building <b>FamTies</b> with a clean, scalable, and modular architecture.</li>
+        <li><b>Learning:</b> Deep diving into <b>Data Structures & Algorithms (DSA)</b> and System Design.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Identity & Impact</h4>
+      <ul>
+        <li><b>Synergy:</b> Strengthening the intersection of Military discipline and Tech innovation.</li>
+        <li><b>Legacy:</b> Consistently committing code to build a lasting developer identity.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <i>"Discipline builds strength. Consistency builds progress. Purpose builds legacy."</i>
+</p>
 ---
 
 ### 🐍 Contribution Activity
